@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sightless Naivgator</string>
+    <string name="detected_objects">Detected: %s</string>
+</resources>

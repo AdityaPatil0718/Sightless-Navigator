@@ -1,0 +1,23 @@
+Car
+bag
+bottle
+chair
+desk
+door
+dustbin
+laptop
+mobile
+person
+scooter
+switch board
+tv
+window
+10
+20
+50
+100
+200
+500
+Eraser
+pen
+pencil
