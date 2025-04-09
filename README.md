@@ -4,7 +4,7 @@
 
 ---
 
-###📱 Overview
+### 📱 Overview
 
 Sightless Navigator is an Android application designed to assist visually impaired individuals by detecting Indian currency notes in real time   using the device camera. Leveraging **YOLOv8 object detection**, converted to **TFLite**, and **Text-to-Speech (TTS)** capabilities, the app speaks out the denomination of detected notes, enabling independent financial interactions.
 
