@@ -1,0 +1,41 @@
+description: Ultralytics best model trained on /notebooks/Final_Dataset/dataset.yaml
+author: Ultralytics
+date: '2025-03-18T11:00:11.185213'
+version: 8.3.92
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Car
+  1: bag
+  2: bottle
+  3: chair
+  4: desk
+  5: door
+  6: dustbin
+  7: laptop
+  8: mobile
+  9: person
+  10: scooter
+  11: switch board
+  12: tv
+  13: window
+  14: '10'
+  15: '20'
+  16: '50'
+  17: '100'
+  18: '200'
+  19: ' 500'
+  20: Eraser
+  21: pen
+  22: pencil
+args:
+  batch: 1
+  half: false
+  int8: false
+  nms: false
