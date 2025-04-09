@@ -93,6 +93,11 @@ Before you begin, make sure you have the following:
     ```bash
     pip install ultralytics
     ```
+- 📂 Dataset
+
+    The custom dataset used for training the YOLOv8n model is available on Google Drive:
+  
+    - 🔗 [Download Dataset](https://drive.google.com/drive/folders/1vSwiNxIfMKrbS2MCvLdEm8Fhji5rJbNB?usp=sharing)
 
 
 ---
